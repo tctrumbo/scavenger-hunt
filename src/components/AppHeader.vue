@@ -1,7 +1,7 @@
 <template>
 <header class="app-header white-text">
     <div class="wrapper">
-        <div class="left">Scavenger Hunt</div>
+        <div class="left"><h1>Scavenger Hunt</h1></div>
     </div>
 </header>
 </template>
